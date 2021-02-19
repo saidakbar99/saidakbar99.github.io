@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    list-style: none;
+    background-color: darkolivegreen;
+}
+.flex{
+    width: 1140px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+li{
+    font-family: Verdana;
+    margin-bottom: 5px;
+}
+.images{
+    margin: 30px 0;
+}
+.images img{
+    width: 300px;
+    height: 300px;
+}
+h1{
+    color: darkblue;
+    font-size: 50px;
+}
+p{
+    font-family: Tahoma;
+}
