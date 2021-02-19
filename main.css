@@ -5,7 +5,9 @@
     text-align: center;
     list-style: none;
     background-color: darkolivegreen;
+    text-decoration: none;
 }
+
 .flex{
     width: 1140px;
     margin: 0 auto;
@@ -28,4 +30,15 @@ h1{
 }
 p{
     font-family: Tahoma;
+}
+li a{
+    color: red;
+}
+li a:hover{
+    text-decoration: underline;
+}
+#dc::first-letter{
+    font-size: 150%;
+    color: blue;
+    font-family: georgia;
 }
